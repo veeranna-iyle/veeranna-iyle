@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veeranna-iyle
 - 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning SwiftUI + Combine and UIKit + Combine.
+- 🌱 I’m currently learning on SwiftUI + Combine and UIKit + Combine and Swift Concurrency.
 
 <!---
 veeranna-iyle/veeranna-iyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
